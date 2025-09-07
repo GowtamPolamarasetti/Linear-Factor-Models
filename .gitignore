@@ -1,0 +1,22 @@
+Python artifacts
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-selfcheck.json
+
+Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+IDE settings
+.idea/
+.vscode/
+
+Environment variables
+.env*
+
+Results and data (we don't want to commit large generated files)
+/results/
